@@ -1,12 +1,9 @@
 package AutomationIntervew;
 
-public class Interview {
+public class RetryLogic {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		
-		System.out.println("Hi Prem Tripathi............");
 
 	}
 
