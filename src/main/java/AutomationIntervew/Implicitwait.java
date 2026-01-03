@@ -24,6 +24,7 @@ public class Implicitwait {
 		// TODO Auto-generated method stub
 		
 		driver=new ChromeDriver();
+		driver.get("http//:google.com");
 		
 		
 
